@@ -1,0 +1,7 @@
+Hadoop Single Node Installer:
+	Hadoop Single Node Installer is a tool for you to setup a single node cluster in hadoop through UI than go through an arduous full command 		terminal  process.
+	In addition it also allows you to set up hadoop utilities like PIG, Hive.
+
+Command to execute:
+1. Go to terminal
+2. Exceute this command : java pathToNewHadoopInstaller/HadoopSingleNodeInstaller/view/Introduction
